@@ -36,7 +36,7 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 
 ## 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SyedMahib-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SyedMahib/)  
-[![Gmail](https://img.shields.io/badge/Email-syed.mahib@example.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:syedmahib8@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Email-syedmahib8@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:syedmahib8@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-SyedMahib-black?style=flat-square&logo=github&logoColor=white)](https://github.com/SyedMahib)  
 
 ---
