@@ -20,7 +20,6 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 
 ## 🛠️ Skills
 <div align="center">
-  <!-- Use logos via Shields.io -->
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -43,7 +42,6 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 ---
 
 ## 📊 GitHub Stats
-<!-- You can add your GitHub activity stats using GitHub Readme Stats -->
 [![Syed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedMahib&show_icons=true&theme=light)](https://github.com/SyedMahib)
 
 ---
