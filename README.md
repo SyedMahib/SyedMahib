@@ -51,7 +51,19 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 
 ---
 
-## 📊 GitHub Stats
-[![Syed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedMahib&show_icons=true&theme=light)](https://github.com/SyedMahib)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMahib&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedMahib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMahib&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMahib&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
