@@ -81,12 +81,26 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Pacman Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/SyedMahib" target="_blank">
-    <img src="https://raw.githubusercontent.com/nickcoutsos/keyswitch-layout-viewer/main/isometric-contribution.png" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pacman contribution graph" style="max-width:900px; width:100%; height:auto;" />
+</p>
+
+---
+
+## 🏙️ 3D Skyline
+
+<p align="center">
+  <img src="https://skyline.github.com/SyedMahib/2024.svg" alt="GitHub Skyline 2024" style="max-width:900px; width:100%; height:auto;" />
+</p>
+
+---
+
+## ✨ Footer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=fff&animation=twinkling" width="100%" />
 </p>
 
 ---
