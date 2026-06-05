@@ -30,6 +30,17 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Elementor" src="https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+  <img alt="React Hooks" src="https://img.shields.io/badge/-React_Hooks-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Tanstack Query" src="https://img.shields.io/badge/-Tanstack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+  <img alt="DaisyUI" src="https://img.shields.io/badge/-DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </div>
 
 ---
