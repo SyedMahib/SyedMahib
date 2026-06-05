@@ -63,15 +63,12 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMahib&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedMahib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMahib&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SyedMahib&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
