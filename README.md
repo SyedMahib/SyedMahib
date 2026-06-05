@@ -117,7 +117,6 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
 
 ---
 
-## ✨ Footer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=fff&animation=twinkling" width="100%" />
