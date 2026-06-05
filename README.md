@@ -74,9 +74,9 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedMahib&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedMahib&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedMahib&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedMahib&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
