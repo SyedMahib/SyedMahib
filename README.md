@@ -1,15 +1,18 @@
 <div align="center">
   <!-- Banner Image -->
   <img src="https://github.com/SyedMahib/SyedMahib/blob/main/Syed%20Mahib.gif" alt="Banner" />
-  <div>
-    <h1>Hello! Everyone. 🙌</h1>
-  </div>
+
+  <h1>Hello! Everyone. 🙌</h1>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👋 About Me
-A passionate full-stack web developer with a dedicated focus on building performant and scalable applications.  
+
+A passionate full-stack web developer with a dedicated focus on building performant and scalable applications.
 When I'm not coding, you'll find me exploring cutting-edge web technologies or contributing to open source.
 
 **Current Activities:**
@@ -18,7 +21,18 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
 
 ---
 
+## ⚡ Fun Facts
+
+- 🧠 I think in components, not pages
+- ☕ Coffee + Code = My productivity formula
+- 🌙 Most of my best commits happen after midnight
+- 🎯 I debug by talking to my rubber duck 🦆
+- 📚 I learn something new every single day
+
+---
+
 ## 🛠️ Skills
+
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -42,6 +56,28 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="REST API" src="https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏛️ Heritage Vault | 📦 BGS | 🏠 Crib Connect |
+|:---:|:---:|:---:|
+| A digital museum platform to explore & preserve humanity's rare historical artifacts worldwide. | Brothers Global Sourcing — a multi-page export-import business website with product catalog. | A modern roommate & housing finder app to discover and connect with shared living spaces. |
+| ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
+| [🔗 Live](https://heritage-vault-8691f.web.app/) · [📁 Repo](https://github.com/SyedMahib/Heritage-Vault) | [📁 Repo](https://github.com/SyedMahib/BGS) | [🔗 Live](https://crib-connect.netlify.app) · [📁 Repo](https://github.com/SyedMahib/Crib-Connect) |
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SyedMahib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
 
 ---
 
