@@ -85,7 +85,7 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
 
 <p align="center">
   <a href="https://github.com/SyedMahib" target="_blank">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/nickcoutsos/keyswitch-layout-viewer/main/isometric-contribution.png" />
   </a>
 </p>
 
