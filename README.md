@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 A passionate full-stack web developer with a dedicated focus on building performant and scalable applications.  
-When I'm not coding, you’ll find me exploring cutting-edge web technologies or contributing to open source.
+When I'm not coding, you'll find me exploring cutting-edge web technologies or contributing to open source.
 
 **Current Activities:**
 - 👨‍💻 Building a **Export-Import based website** using React.js & Tailwind CSS
@@ -55,22 +55,30 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
   </a>
 </p>
 
+---
+
 ## 📬 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SyedMahib-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SyedMahib/)  
-[![Gmail](https://img.shields.io/badge/Email-syedmahib8@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:syedmahib8@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-SyedMahib-black?style=flat-square&logo=github&logoColor=white)](https://github.com/SyedMahib)  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SyedMahib-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SyedMahib/)
+[![Gmail](https://img.shields.io/badge/Email-syedmahib8@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:syedmahib8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SyedMahib-black?style=flat-square&logo=github&logoColor=white)](https://github.com/SyedMahib)
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMahib&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMahib&theme=tokyonight&hide_border=true" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMahib&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMahib&theme=tokyonight&hide_border=true" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedMahib&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
@@ -78,5 +86,5 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedMahib&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=SyedMahib&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
