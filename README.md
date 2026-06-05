@@ -58,17 +58,9 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SyedMahib&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=SyedMahib&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedMahib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
-## 🚀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedMahib&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SyedMahib&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
