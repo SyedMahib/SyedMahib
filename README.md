@@ -34,6 +34,16 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <a href="https://github.com/SyedMahib" target="_blank">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+      alt="GitHub Contribution Snake"
+      style="max-width:900px; width:100%; height:auto;" />
+  </a>
+</p>
+
 ## 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SyedMahib-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SyedMahib/)  
 [![Gmail](https://img.shields.io/badge/Email-syedmahib8@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:syedmahib8@gmail.com)  
