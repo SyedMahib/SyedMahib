@@ -69,7 +69,7 @@ When I'm not coding, you’ll find me exploring cutting-edge web technologies or
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SyedMahib&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedMahib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
