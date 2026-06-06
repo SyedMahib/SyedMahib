@@ -59,7 +59,7 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
 
 <p align="center">
   <a href="https://github.com/SyedMahib" target="_blank">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    <img src="https://raw.githubusercontent.com/SyedMahib/SyedMahib/output/github-contribution-grid-snake-dark.svg"
       alt="GitHub Contribution Snake"
       style="max-width:900px; width:100%; height:auto;" />
   </a>
