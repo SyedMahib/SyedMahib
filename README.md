@@ -47,9 +47,9 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
 
 | 🏛️ Heritage Vault | 📦 BGS | 🏠 Crib Connect |
 |:---:|:---:|:---:|
-| A digital museum platform to explore & preserve humanity's rare historical artifacts worldwide. | Brothers Global Sourcing — a multi-page export-import business website with product catalog. | A modern roommate & housing finder app to discover and connect with shared living spaces. |
+| A digital museum platform to explore & preserve humanity's rare historical artifacts worldwide. | Brothers Global Sourcing — a multi-page export-import business website with a product catalog. | A modern roommate & housing finder app to discover and connect with shared living spaces. |
 | ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
-| [🔗 Live](https://heritage-vault-8691f.web.app/) · [📁 Repo](https://github.com/SyedMahib/Heritage-Vault) | [📁 Repo](https://github.com/SyedMahib/BGS) | [🔗 Live](https://crib-connect.netlify.app) · [📁 Repo](https://github.com/SyedMahib/Crib-Connect) |
+| [🔗 Live](https://heritage-vault-8691f.web.app/) · [📁 Repo](https://github.com/SyedMahib/Heritage-Vault) | [🔗 Live](https://bdbgs.com) ·  [📁 Repo](https://github.com/SyedMahib/BGS) | [🔗 Live](https://crib-connect.netlify.app) · [📁 Repo](https://github.com/SyedMahib/Crib-Connect) |
 
 </div>
 
