@@ -17,7 +17,7 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
 
 **Current Activities:**
 - 👨‍💻 Building a **Export-Import based website** using React.js & Tailwind CSS
-- 🔭 Exploring MongoDB and Firebase Auth
+- 🔭 Exploring TypeScript and Next.js
 
 ---
 
