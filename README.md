@@ -18,8 +18,8 @@ A passionate full-stack web developer with a dedicated focus on building perform
 When I'm not coding, you'll find me exploring cutting-edge web technologies or contributing to open source.
 
 **Current Activities:**
-- 👨‍💻 Building a **Export-Import based website** using React.js & Tailwind CSS
-- 🔭 Exploring TypeScript and Next.js
+- 👨‍💻 Building an E-Commerce website using TypeScript, Node.js, Express, React & TailwindCSS ✨️
+- 🔭 Exploring TypeScript and Next.js 
 
 ---
 
