@@ -18,7 +18,7 @@ A passionate full-stack web developer with a dedicated focus on building perform
 When I'm not coding, you'll find me exploring cutting-edge web technologies or contributing to open source.
 
 **Current Activities:**
-- 👨‍💻 Building an E-Commerce website using TypeScript, Node.js, Express, React & TailwindCSS ✨️
+- 👨‍💻 Building ShopIT — a production-ready e-commerce REST API with Node.js & TypeScript ✨️
 - 🔭 Exploring TypeScript and Next.js 
 
 ---
