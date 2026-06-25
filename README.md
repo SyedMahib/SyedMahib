@@ -26,7 +26,7 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
 ## ⚡ Fun Facts
 
 - 🧠 I think in components, not pages
-- ☕ Coffee + Code = My productivity formula
+- 💻 Turning ideas into code, one commit at a time
 - 🌙 Most of my best commits happen after midnight
 - 🎯 I debug by talking to my rubber duck 🦆
 - 📚 I learn something new every single day
