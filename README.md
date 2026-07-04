@@ -15,7 +15,7 @@
 ## 👋 About Me
 
 A passionate full-stack web developer with a dedicated focus on building performant and scalable applications.
-When I'm not coding, you'll find me exploring cutting-edge web technologies or contributing to open source.
+When I'm not coding, you'll find me exploring cutting-edge web technologies or watching movies.
 
 **Current Activities:**
 - 👨‍💻 Building ShopIT — a production-ready e-commerce REST API with Node.js & TypeScript ✨️
@@ -26,7 +26,7 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or c
 ## ⚡ Fun Facts
 
 - 🧠 I think in components, not pages
-- 💻 Turning ideas into code, one commit at a time
+- 💻 Turning ideas into code, one commit at a time, sometimes two;you never know 👀
 - 🌙 Most of my best commits happen after midnight
 - 🎯 I debug by talking to my rubber duck 🦆
 - 📚 I learn something new every single day
