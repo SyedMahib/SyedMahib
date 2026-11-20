@@ -18,7 +18,7 @@ A passionate full-stack web developer with a dedicated focus on building perform
 When I'm not coding, you'll find me exploring cutting-edge web technologies or watching movies.
 
 **Current Activities:**
-- 👨‍💻 Building ShopIT — a production-ready e-commerce REST API with Node.js & TypeScript ✨️
+- 👨‍💻 Building ShopIT a production-ready e-commerce REST API with Node.js & TypeScript ✨️
 - 🔭 Exploring TypeScript and Next.js 
 
 ---
@@ -85,16 +85,6 @@ When I'm not coding, you'll find me exploring cutting-edge web technologies or w
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMahib&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMahib&theme=tokyonight&hide_border=true" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedMahib&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedMahib&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
